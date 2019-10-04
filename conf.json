@@ -1,0 +1,15 @@
+{
+    "APIKey": "your Hornbill API Key",
+    "InstanceID": "Your Hornbill Instance ID",
+    "MeridianToken": "A Meridian Token",
+    "LocationID": "The ID of your Meridian Location",
+    "AssetMatchColumn": {
+        "Meridian":"ExternalID",
+        "Hornbill": "Name"
+    },
+    "ImportMapping": {
+        "h_location":"Location",
+        "h_external_id":"ID",
+        "h_external_source":"Source"
+    }
+}
